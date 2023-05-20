@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 125,
+  "experience": 0.175,
+  "ingredient": {
+    "item": "bananabreadmod:banana_oiled"
+  },
+  "result": "bananabreadmod:banana_fried"
+}

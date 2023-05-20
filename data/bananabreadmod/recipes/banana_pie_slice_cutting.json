@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:banana_pie"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "bananabreadmod:banana_pie_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

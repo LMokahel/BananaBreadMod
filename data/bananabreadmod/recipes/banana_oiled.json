@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "result": {
+    "item": "bananabreadmod:banana_oiled"
+  }
+}

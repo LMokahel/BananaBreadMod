@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 50,
+  "experience": 0.05,
+  "ingredient": {
+    "item": "bananabreadmod:banana_oiled"
+  },
+  "result": "bananabreadmod:banana_fried"
+}

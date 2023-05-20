@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "tag": "forge:fruits/banana"
+    },
+    "W": {
+      "tag": "forge:crops/wheat"
+    },
+    "M": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "BMB",
+    "#W#"
+  ],
+  "result": {
+    "item": "bananabreadmod:banana_donut"
+  }
+}

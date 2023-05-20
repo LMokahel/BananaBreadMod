@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:chocolate_bucket"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    }
+  ],
+  "result": {
+    "item": "bananabreadmod:banana_chocolate"
+  }
+}

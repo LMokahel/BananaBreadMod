@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:apple_cider"
+    },
+    {
+      "item": "bananabreadmod:vanilla_bean"
+    },
+    {
+      "item": "bananabreadmod:vanilla_bean"
+    }
+  ],
+  "result": {
+    "item": "bananabreadmod:vanilla_extract"
+  }
+}

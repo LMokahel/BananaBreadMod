@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 25,
+  "experience": 0.175,
+  "ingredient": {
+    "item": "bananabreadmod:banana_oiled"
+  },
+  "result": "bananabreadmod:banana_fried"
+}
